@@ -1,3 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+main {
+  margin: auto;
+  text-align: center;
+  white-space: pre-line;
+  font-family: 'Open Sans', sans-serif;
+}
+
+textarea {
+  width: 475px;
+  height: 50px;
+}
+
+img {
+  width: 475px;
+}
+
 .App {
   text-align: center;
 }
@@ -32,6 +50,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
