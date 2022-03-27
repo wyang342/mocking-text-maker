@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mocking-text-maker/static/css/main.ebc3f091.css",
+    "main.js": "/mocking-text-maker/static/js/main.a30d24c7.js",
+    "static/js/787.36463e81.chunk.js": "/mocking-text-maker/static/js/787.36463e81.chunk.js",
+    "static/media/mocking-spongebob.png": "/mocking-text-maker/static/media/mocking-spongebob.576cf30d6888745080f8.png",
+    "index.html": "/mocking-text-maker/index.html",
+    "main.ebc3f091.css.map": "/mocking-text-maker/static/css/main.ebc3f091.css.map",
+    "main.a30d24c7.js.map": "/mocking-text-maker/static/js/main.a30d24c7.js.map",
+    "787.36463e81.chunk.js.map": "/mocking-text-maker/static/js/787.36463e81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebc3f091.css",
+    "static/js/main.a30d24c7.js"
+  ]
+}
